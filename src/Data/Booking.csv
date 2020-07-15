@@ -1,0 +1,5 @@
+iD,customerName,birthdayOfCustomer,gender,customerId,customerPhone,customerEmail,customerType,customerAddress,iDService,nameService,area,rentCost,personLimit,rentType
+581b52455e244aeeb4ee2b4b38129402,Chanh2,11/11/1989,Female,123 123 456,,chanh2@gmail.com,Vip3,KonTum,1e8c8b97094341be9c34fdb6292945d7,Houaw,32.0,1.0,2,Vip
+581b52455e244aeeb4ee2b4b38129402,Chanh2,11/11/1989,Female,123 123 456,,chanh2@gmail.com,Vip3,KonTum,0b936340adbe40d1b1960cce827aa338,Rome,34.0,2.0,3,Vip
+581b52455e244aeeb4ee2b4b38129402,Chanh2,11/11/1989,Female,123 123 456,,chanh2@gmail.com,Vip3,KonTum,823d49dede0e45119267b83d811f0dad,Rom1,34.0,12.0,3,Vip
+1bab606415544405a3ceee6392b07121,Chanh1,12/12/1999,Male,123 123 123,123456789,chanh@gmail.com,Vip,Dânna,d21ea637d9304200b6249f064e398ad1,Villa10,35.0,12.0,6,Vip
